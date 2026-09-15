@@ -1,4 +1,4 @@
-# 📊 Análise Exploratória de Dados — Vendas no Varejo (Big Mart Sales)
+# 📊 Análise Exploratória de Dados: Vendas no Varejo (Big Mart Sales)
 
 Projeto de limpeza de dados e análise exploratória (EDA) sobre um dataset de vendas do varejo, com foco em identificar padrões entre **tamanho da loja**, **categoria de produto**, **teor de gordura** e **volume de vendas**.
 
